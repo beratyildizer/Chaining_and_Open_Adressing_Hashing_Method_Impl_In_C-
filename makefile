@@ -7,7 +7,7 @@ CXX = g++
 CXXFLAGS = -std=c++17 -Wall -O2
 
 # Sources and objects
-SOURCES = Assigment_3.cpp obs.cpp
+SOURCES = Assignment_3.cpp obs.cpp
 HEADERS = obs.h
 OBJECTS = $(SOURCES:.cpp=.o)
 
